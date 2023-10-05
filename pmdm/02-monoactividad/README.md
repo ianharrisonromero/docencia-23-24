@@ -62,12 +62,13 @@ The DatePicker view enables users to select a date of the day.
     5. Soluciones:
         1. Solucion de Chen: [Java](https://github.com/Xing2707/PMDM/blob/master/app/src/main/java/com/example/pmdm/ut02/u2e2NombreColo.java) [Layout](https://github.com/Xing2707/PMDM/blob/master/app/src/main/res/layout/activity_u2e2_nombre_colo.xml)
 
-3. 1 Manejardor para controlarlos a todos. Propinatron2000
+3. 1 Manejador para controlarlos a todos. Propinatron2000
     1. Crea un PAD numérico con botones y los valores del 0 al 9 y un botón borrar 1 número.
     2. Un label donde mostrar el número que se va acumulando.
     2. Crea un radio button para indicar si el trato ha sido malo, bueno o excelnte
     3. Crea un botón de calcular propina: malo será el precio indicado con los números
-
+    4. Soluciones
+       1. Solucion de Ian: [Java](https://github.com/ianharrisonromero/DAM2Eloy/blob/main/PMDM%20Programaci%C3%B3n%20Multimedia%20y%20Dispositivos%20Moviles/AndroidStudioProjects/Propineitor9000/app/src/main/java/com/example/propineitor9000/MainActivity.java) / [Layout](https://github.com/ianharrisonromero/DAM2Eloy/blob/main/PMDM%20Programaci%C3%B3n%20Multimedia%20y%20Dispositivos%20Moviles/AndroidStudioProjects/Propineitor9000/app/src/main/res/layout/activity_main.xml)
 4. Modifica el propinatron2000 para que tenga una imagen de cabecera. 
 
 5. Pedir cita
